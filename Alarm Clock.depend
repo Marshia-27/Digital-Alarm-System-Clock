@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1646594330 source:e:\1st year 2nd semister\alarm clock\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<unistd.h>
+	<signal.h>
+
+1646594330 source:e:\all\academic\1st year\1st year 2nd semister\alarm clock\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<unistd.h>
+	<signal.h>
+
